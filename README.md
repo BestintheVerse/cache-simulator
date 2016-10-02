@@ -1,6 +1,6 @@
 # cache-simulator
 
-This was a project completed for ECE463, Advanced Microprocessor design to simulate an L1 single-hierarchy cache. The project was written in C. To compile use the makefile.
+This was a project completed for ECE463, Advanced Microprocessor design to simulate an N-way set-associative single-hierarchy cache. The project was written in C. To compile use the makefile.
 
 ### Command line arguments:
 `>./sim_cache <BLOCKSIZE> <L1_SIZE> <L1_ASSOC> <L2SIZE> <L2_ASSOC> <REPL_POLICY> <INCLUSION> <TRACE_FILE>`*
